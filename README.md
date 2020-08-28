@@ -13,7 +13,7 @@ ESLint's https://github.com/benmosher/eslint-plugin-import plugin throws errors 
 
 In this repository, you will find a fresh install of Vite using the Create Vite App (React) template, as well as ESLint and the ESLint plugin.
 
-You can run the linting step in the repository using `yarn lint`.
+You can run the linting step in the repository using `yarn run lint`.
 
 #### Logs
 
