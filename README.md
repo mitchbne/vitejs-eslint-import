@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  A demonstration of an <a>issue</a> raised in ViteJS.
+  A demonstration of an <a href="https://github.com/vitejs/vite/issues/761">issue</a> raised in ViteJS.
 </p>
 
 ---
