@@ -9,7 +9,7 @@
 ---
 
 #### The problem
-ESLint's https://github.com/benmosher/eslint-plugin-import plugin throws errors when unknown files (in the repository filesystem) are imported into a file. This shows up in particular with `react` and `react-dom` - but I assume any of the other 'aliased modules' (like with the Preact template) will be similar.
+ESLint's https://github.com/benmosher/eslint-plugin-import plugin throws errors when unknown files (in the repository filesystem) are imported into a file. This shows up in particular with `react` (`"@pika/react"`) and `react-dom` (`"@pika/react-dom"`) - but I assume any of the other 'aliased modules' (like with the Preact template) will be similar.
 
 In this repository, you will find a fresh install of Vite using the Create Vite App (React) template, as well as ESLint and the ESLint plugin.
 
